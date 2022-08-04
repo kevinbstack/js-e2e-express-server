@@ -1,5 +1,5 @@
 # Node.js
-- task: BrowserStackResults@1
+ task: BrowserStackResults@1
   inputs:
     browserstackProduct: 'automate'
 # Build a general Node.js project with npm.
